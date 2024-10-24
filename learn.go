@@ -2,7 +2,7 @@ package learn
 
 import "fmt"
 
-func learn() {
+func Learn() {
 
 	fmt.Println("Learn learn learn!")
 }
